@@ -31,9 +31,11 @@ JavaScript (ES6) – logic & interactivity
 Clone the repository and open the index.html file in your browser:
 
 git clone https://github.com/alekskorri/apple-calculator.git
+
 cd apple-calculator
 
 Then simply open:
+
 index.html
 
 
@@ -42,8 +44,12 @@ index.html
 This calculator wasn’t my very first project, but rather one of the personal challenges I keep setting for myself.
 
 I wanted to:
+
 Sharpen my JavaScript logic skills 🧠
+
 Improve my ability to style and design clean UIs 🎨
+
 Push myself to build projects
+
 It’s part of my journey to keep leveling up as a developer — learning by building and refining.
 
